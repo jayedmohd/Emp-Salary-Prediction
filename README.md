@@ -85,15 +85,15 @@ The app will open in your default web browser.
 ---
 
 ## License
-Specify your license here (e.g., MIT, Apache 2.0, etc.)
+Unlicenced
 
 ---
 
 ## Credits
-- Developed by [Your Name]
+- Developed by [Mohammad Jayed]
 - Powered by Streamlit, scikit-learn, pandas
 
 ---
 
 ## Contact
-For questions or support, contact [your-email@example.com]
+For questions or support, contact [mohammadjayed0@gmail.com]
