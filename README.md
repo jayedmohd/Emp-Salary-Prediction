@@ -53,7 +53,7 @@ The app will open in your default web browser.
 
 ## File Structure
 - `app.py` : Main Streamlit application
-- `employee_salaries.csv` : Dataset used for training/prediction
+- `employee_salaries_india.csv` : Dataset used for training/prediction
 
 ---
 
@@ -65,14 +65,14 @@ The app will open in your default web browser.
 ---
 
 ## Model & Data
-- The app uses a machine learning model (see `app.py`) trained on the `employee_salaries.csv` dataset.
+- The app uses a machine learning model (see `app.py`) trained on the `employee_salaries_india.csv` dataset.
 - Features used: Experience, Education, Location, Company Size, Industry, Job Role, Remote Work
 - Model type: (Specify here, e.g., Linear Regression, Random Forest, etc. If not sure, check your `app.py`)
 
 ---
 
 ## Customization
-- To update the dataset, replace `employee_salaries.csv` with your own data (ensure the format matches).
+- To update the dataset, replace `employee_salaries_india.csv` with your own data (ensure the format matches).
 - To change model logic, edit `app.py`.
 
 ---
